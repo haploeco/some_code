@@ -1,2 +1,2 @@
 # some_code
-JenkinsTraining
+just a shell script
